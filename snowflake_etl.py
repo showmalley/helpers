@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-This python class is a wrapper on connecting to, and performing operations with snowflake databases using a VPN authentificator
+This python class is a wrapper on connecting to, and performing operations with, snowflake databases using a VPN authentificator
 
 @author_company: Ameliorate, LLC
 @author_name: Sean OMalley

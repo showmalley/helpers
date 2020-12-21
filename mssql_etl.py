@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-company: Ameliorate, LLC
-author: seanlomalley@protonmail.com
+This python class is a wrapper on a windows authentification methodology of connecting to MSSQL server
+
+@author_company: Ameliorate, LLC
+@author_name: Sean OMalley
+@author_email: seanlomalley@protonmail.com
 """
 
 import sqlalchemy as db

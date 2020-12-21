@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@author: somalley@centura.org
+company: Ameliorate, LLC
+author: seanlomalley@protonmail.com
 """
 
 import sqlalchemy as db

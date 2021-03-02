@@ -2,10 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 This module is intended to serve as a wrapper for AWS functionalities in order to make for ease of use.
-
-@author_company: Ameliorate, LLC
-@author_name: Sean OMalley
-@author_email: seanlomalley@protonmail.com
 """
 
 # import packages

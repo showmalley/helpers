@@ -2,10 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 This python class is a wrapper on a windows authentification methodology of connecting to MSSQL server
-
-@author_company: Ameliorate, LLC
-@author_name: Sean OMalley
-@author_email: seanlomalley@protonmail.com
 """
 
 import sqlalchemy as db

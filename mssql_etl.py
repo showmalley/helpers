@@ -22,6 +22,10 @@ class client:
         self.host = host
         self.port = port
         
+    def spark_from_sql(self, spark, query):
+        df = spark.read.jdbc(url = self.engine, table = query)
+        return df
+    
     def truncate(self, name, schema):
         self.connection.execute( f"""TRUNCATE TABLE {self.database}.{schema}.{name}""" )
  
